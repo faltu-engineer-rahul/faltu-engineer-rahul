@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Rahul Rajput
+- 👀 I’m interested in Ruby and Python  
+- 🌱 I’m currently learning Phoenix framework.
+- 📫 How to reach me rahul@dbadbadba.com
